@@ -1,1 +1,4 @@
 discord.py
+discord-ext-commands
+yt-dlp
+python-dotenv
